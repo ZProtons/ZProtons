@@ -27,10 +27,10 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 | Project | What it is |
 |---|---|
-| [**Web-Pentesting-Notes-B1**](https://github.com/ZProtons/Web-Pentesting-Notes-B1) | A maintained 61-chapter web pentesting guide — with its own build pipeline and CI that checks the repo stays consistent on every push |
-| [**halp**](https://github.com/ZProtons/halp) | A CLI tool that reads a command's own `--help`/man page and turns a plain-English task into the exact shell command, via any OpenAI-compatible LLM |
-| [**insecure-notes**](https://github.com/ZProtons/insecure-notes) | A deliberately vulnerable Flask app — SQLi, broken auth, IDOR, stored XSS, SSRF, path traversal — with full exploitation write-ups |
-| [**photovault**](https://github.com/ZProtons/photovault) | A deliberately vulnerable photo-upload app — unrestricted file upload chained into RCE, broken access control, and a debug-console compromise |
+| [**Web-Pentesting-Notes-B1**] | A maintained 61-chapter web pentesting guide — with its own build pipeline and CI that checks the repo stays consistent on every push |
+| [**Custom Tools**] | I have and I usually post many automation tools for web pentesting. Whether it is nuclei YAML or reconnaissance. Be sure to check it out! |
+| [**Practice Labs**] | Deliberately vulnerable Flask apps that I frequently ask AI to make, before I enjoy every ounce of breaking it. |
+| [**Medium Write-ups**] | Here is where I write my write-ups. Whether it is a Portswigger lab, or a custom lab in my repo, I always document it. My write-ups include my failure attempts and how i think before I hack |
 
 ---
 
