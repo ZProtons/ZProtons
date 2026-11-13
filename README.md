@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,45:6b0f1a,100:0e3b2e&height=160&section=header&text=ZProtons&fontSize=58&fontColor=e8e6e1&fontAlignY=55&desc=Aspiring%20Web%20Penetration%20Tester&descAlignY=80&descSize=18&descColor=c9c2b8" alt="header" width="100%" />
+<img src="assets/banner.svg" alt="header" width="100%" />
 
 <a href="https://www.linkedin.com/in/zayedfkazi/">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Used%20to%20make%20things,%20now%20I%20break%20them;%20How%20did%20I%20end%20up%20here?;%20Coding%20since%20I%20was%206!;%20Hacking%20since%20I%20was%2014!;Something%20of%20everything%20computers!;I%20have%20never%20dropped%20below%20A+%20in%20computers" alt="Typing SVG" />
@@ -81,7 +81,7 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e3b2e,55:6b0f1a,100:0d0d0d&height=90&section=footer" alt="footer" width="100%" />
+<img src="assets/banner_footer.svg" alt="footer" width="100%" />
 
 *Every push here is a step toward being the kind of tester who finds the bug before it ships.*
 
