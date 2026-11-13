@@ -23,11 +23,11 @@
 
   <!-- dark green triangle along the bottom, with glowing white gradient inside -->
   <polygon points="0,220 0,70 560,220" fill="url(#triangleGlow)" />
-  <polygon points="0,220 0,70 560,220" fill="none" stroke="#06110c" stroke-width="1.5" stroke-opacity="0.4" />
+  <polygon points="0,220 0,70 560,220" fill="none" stroke="#06110c" stroke-width="0.5" stroke-opacity="0.4" />
 
   <!-- text -->
   <text x="600" y="110" font-family="Fira Code, Consolas, monospace" font-size="56" font-weight="700"
         fill="#ece7dd" text-anchor="middle" filter="url(#softShadow)">ZProtons</text>
   <text x="600" y="155" font-family="Fira Code, Consolas, monospace" font-size="19"
-        fill="#d8d2c4" text-anchor="middle" filter="url(#softShadow)">Web Penetration Tester/ Student of Cybersecurity</text>
+        fill="#d8d2c4" text-anchor="middle" filter="url(#softShadow)">Web Penetration Tester/Student of Cybersecurity</text>
 </svg>
