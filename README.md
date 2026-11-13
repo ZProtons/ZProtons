@@ -20,7 +20,6 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 - 🧪 Currently: shipping something to GitHub every day — a lab, a tool, a writeup, or a fix
 - 🎯 Focused on: web application penetration testing
 - 📚 Learning path: self-directed labs + PortSwigger Academy + TryHackMe, documented as I go
-- 🚧 Not chasing certifications yet — chasing reps first
 
 ---
 
@@ -75,12 +74,6 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZProtons&theme=react-dark&hide_border=true&area=true" width="98%" />
 
 </div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZProtons&theme=onedark&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
