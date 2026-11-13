@@ -27,10 +27,10 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 | Project | What it is |
 |---|---|
-| [**Web-Pentesting-Notes-B1**] | A maintained 61-chapter web pentesting guide — with its own build pipeline and CI that checks the repo stays consistent on every push |
-| [**Custom Tools**] | I have and I usually post many automation tools for web pentesting. Whether it is nuclei YAML or reconnaissance. Be sure to check it out! |
-| [**Practice Labs**] | Deliberately vulnerable Flask apps that I frequently ask AI to make, before I enjoy every ounce of breaking it. |
-| [**Medium Write-ups**] | Here is where I write my write-ups. Whether it is a Portswigger lab, or a custom lab in my repo, I always document it. My write-ups include my failure attempts and how i think before I hack |
+| **Web-Pentesting-Notes-B1** | A maintained 61-chapter web pentesting guide — with its own build pipeline and CI that checks the repo stays consistent on every push |
+| **Custom Tools** | I have and I usually post many automation tools for web pentesting. Whether it is nuclei YAML or reconnaissance. Be sure to check it out! |
+| **Practice Labs** | Deliberately vulnerable Flask apps that I frequently ask AI to make, before I enjoy every ounce of breaking it. |
+| **Medium Write-ups** | Here is where I write my write-ups. Whether it is a Portswigger lab, or a custom lab in my repo, I always document it. My write-ups include my failure attempts and how i think before I hack |
 
 ---
 
