@@ -11,6 +11,11 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Full--time%20%7C%20Freelance%20%7C%20Collabs-7c3aed?style=for-the-badge&labelColor=0d0d16" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ZProtons&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d0d16&base=4218" />
+</p>
 
 ---
 
@@ -63,6 +68,11 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 ---
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 ### 📊 GitHub stats
 
 <div align="center">
