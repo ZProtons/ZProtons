@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ZProtons
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff3b30,#ff3b30,#ff3b30,#ff3b30&color_dots_0=#0d1117&color_dots_1=#0e4429&color_dots_2=#006d32&color_dots_3=#26a641&color_dots_4=#39d353&color_empty=#0d1117
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353,#39d353,#39d353,#39d353&color_dots_0=#0d1117&color_dots_1=#8b0000&color_dots_2=#b30000&color_dots_3=#e00000&color_dots_4=#ff2020&color_empty=#0d1117
             dist/github-contribution-grid-snake-light.svg?color_snake=#000000,#000000,#000000,#000000&color_dots_0=#ebedf0&color_dots_1=#9be9ff&color_dots_2=#4fc3f7&color_dots_3=#1e88e5&color_dots_4=#0d47a1&color_empty=#ebedf0
 
       - name: Push generated files to the "output" branch
