@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey, I'm Zayed 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=ZProtons&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Penetration%20Tester&descAlignY=58&descSize=20" alt="header" width="100%" />
 
-### Aspiring Web Penetration Tester · Breaking things on purpose since forever
+<a href="https://www.linkedin.com/in/zayedfkazi/">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+things+on+purpose+since+forever;Shipping+something+new+to+GitHub+every+day;Learning+web+app+security%2C+one+exploit+chain+at+a+time;No+certs+yet+%E2%80%94+just+reps" alt="Typing SVG" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayedfkazi/)
 [![GitHub followers](https://img.shields.io/github/followers/ZProtons?style=for-the-badge&logo=github&color=181717&labelColor=000)](https://github.com/ZProtons)
@@ -45,6 +47,18 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 ---
 
+### 🐍 The daily-push streak
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ZProtons/zprotons/output/github-contribution-grid-snake.svg" alt="snake contribution animation" width="100%" />
+
+</div>
+
+> One push a day, logged here whether it's a 61-chapter repo or a one-line fix.
+
+---
+
 ### 📊 GitHub stats
 
 <div align="center">
@@ -54,11 +68,23 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZProtons&theme=react&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZProtons&theme=react-dark&hide_border=true&area=true" width="98%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ZProtons&theme=onedark&no-frame=true&margin-w=10&row=1" />
+
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer" width="100%" />
 
 *Every push here is a step toward being the kind of tester who finds the bug before it ships.*
 
