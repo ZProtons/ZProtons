@@ -21,19 +21,12 @@
   <!-- base black -> red -> white vertical gradient -->
   <rect x="0" y="0" width="1200" height="220" fill="url(#bgGradient)" />
 
-  <!-- full-height dark emerald triangle, hoist-side, apex pointing right -->
-  <polygon points="0,0 0,220 560,110" fill="url(#triangleGlow)" />
-  <polygon points="0,0 0,220 560,110" fill="none" stroke="#06110c" stroke-width="1.5" stroke-opacity="0.35" />
-
-  <!-- cryptic crescent + eight-pointed star, barely visible, hidden inside the triangle -->
+  
   <g opacity="0.13" fill="#ffffff">
-    <path fill-rule="evenodd"
-          d="M 190,110 m -46,0 a 46,46 0 1,0 92,0 a 46,46 0 1,0 -92,0 Z
-             M 206,110 m -38,0 a 38,38 0 1,0 76,0 a 38,38 0 1,0 -76,0 Z" />
   </g>
   <g opacity="0.11" fill="#ffffff">
-    <rect x="248" y="88" width="30" height="30" transform="rotate(0 263 103)" />
-    <rect x="248" y="88" width="30" height="30" transform="rotate(45 263 103)" />
+    <rect x="496" y="83" width="30" height="30" transform="rotate(0 263 103)" />
+    <rect x="420" y="-90" width="30" height="30" transform="rotate(45 263 103)" />
   </g>
 
   <!-- text -->
