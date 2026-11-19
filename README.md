@@ -7,6 +7,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayedfkazi/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zayedfkazi)
 [![GitHub followers](https://img.shields.io/github/followers/ZProtons?style=for-the-badge&logo=github&color=181717&labelColor=000)](https://github.com/ZProtons)
 
 </div>
@@ -33,22 +34,44 @@ I'm 18, currently starting a cybersecurity internship, and studying Computer Eng
 
 | Project | What it is |
 |---|---|
-| **Web-Pentesting-Notes-B1** | A maintained 61-chapter web pentesting guide — with its own build pipeline and CI that checks the repo stays consistent on every push |
-| **Custom Tools** | I have and I usually post many automation tools for web pentesting. Whether it is nuclei YAML or reconnaissance. Be sure to check it out! |
-| **Practice Labs** | Deliberately vulnerable Flask apps that I frequently ask AI to make, before I enjoy every ounce of breaking it. |
-| **Medium Write-ups** | Here is where I write my write-ups. Whether it is a Portswigger lab, or a custom lab in my repo, I always document it. My write-ups include my failure attempts and how i think before I hack |
+| **[Web-Pentesting-Notes-B1](https://github.com/ZProtons/Web-Pentesting-Notes-B1)** | A maintained 61-chapter web pentesting guide — with its own build pipeline and CI that checks the repo stays consistent on every push |
+| **[Custom Tools](https://github.com/ZProtons?tab=repositories)** | I have and I usually post many automation tools for web pentesting. Whether it is nuclei YAML or reconnaissance. Be sure to check it out! |
+| **[Fire-Labs](https://github.com/ZProtons/Fire-Labs)** | Deliberately vulnerable Flask apps that I frequently ask AI to make, before I enjoy every ounce of breaking it. |
+| **[Write-ups](https://medium.com/@zayedfkazi)** | Here is where I write my write-ups. Whether it is a Portswigger lab, or a custom lab in my repo, I always document it. My write-ups include my failure attempts and how i think before I hack |
+| **[Website](https://zprotons.github.io)** | My personal website! |
 
 ---
 
 ### 🧰 Arsenal
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](#)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Shodan](https://shields.io)](https://shodan.io)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#)
+[![Hyprland](https://img.shields.io/badge/Hyprland-58ffff?logo=Hyprland&logoColor=333333)](#)
 
 ---
 
